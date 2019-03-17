@@ -1,2 +1,2 @@
 # WordPress-Branch
-WordPress中文分支库
+WordPress中文分支
